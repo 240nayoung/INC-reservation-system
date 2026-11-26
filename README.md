@@ -30,7 +30,7 @@ React와 Flask를 활용한 **웹 기반 식당 예약 서비스**입니다.
 - 식당 예약 기능 구현
 - 예약자 정보 입력 기능 구현 및 프론트엔드 연동
 
-[개인 Pull Request 내역] (https://github.com/Lyla-Dev/INC-reservation-system/pulls?q=is%3Apr+author%3A240nayoung)
+- [개인 Pull Request 내역](https://github.com/Lyla-Dev/INC-reservation-system/pulls?q=is%3Apr+author%3A240nayoung)
 
 ## 📁 프로젝트 구조
 ```
@@ -65,4 +65,4 @@ INC-reservation-system/
 
 ## 🖇️ 원본 리포지터리
 2인 팀 공동 개발 프로젝트로, 개인 포트폴리오 정리를 위해 Fork한 리포지터리입니다. 
-[Original Repository] (https://github.com/Lyla-Dev/INC-reservation-system)
+- [Original Repository](https://github.com/Lyla-Dev/INC-reservation-system)
