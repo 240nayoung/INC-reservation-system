@@ -64,5 +64,5 @@ INC-reservation-system/
 ```
 
 ## 🖇️ 원본 리포지터리
-2인 팀 공동 개발 프로젝트로, 개인 포트폴리오 정리를 위해 Fork한 리포지터리입니다.
+2인 팀 공동 개발 프로젝트로, 개인 포트폴리오 정리를 위해 Fork한 리포지터리입니다. 
 [Original Repository] (https://github.com/Lyla-Dev/INC-reservation-system)
